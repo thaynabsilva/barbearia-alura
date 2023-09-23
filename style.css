@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+}
+
+#banner {
+    width: 100%;
+}    
+h1 ,
+h2 {
+    text-align: center;
+}
+.principal{
+    background:  #cccccc;
+    padding-top:  10px;
+    padding-bottom:  10px;
+}
+.principal p {
+    text-align: center;
+}
+em strong {
+    color:  blueviolet
+}
+
+#banner {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+}   
+.imagembeneficios {
+    width: 50%;
+}
